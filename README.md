@@ -21,6 +21,9 @@ This is a Coding Exercise solution written by - [Olajide Eniseyin](https://www.l
     ```
   - ```bash
     php artisan migrate
+
+  - ```bash
+    php artisan key:generate
   
 - For Unit Test (EmailJobDispatchTest) & (EmailListTest) Run
   - ```bash
